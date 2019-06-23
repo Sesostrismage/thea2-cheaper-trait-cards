@@ -3,4 +3,4 @@
   <DB>DATABASE_TRAIT_CARDS.xml</DB>
   <TAG>Gameplay</TAG>This mod sets the cost of all trait cards at game start to 1, so that you can build a stronger starting party.
   
-  This mod changes DATABASE_TRAIT_CARDS.xml and will not work with other mods that also modify this file. I've tried to only change the UseCost entries, but then the database won't load. :-(</ModInfo>
+  This mod changes DATABASE_TRAIT_CARDS.xml and will not work with other mods that also modify this file. I've tried to only include the UseCost entries, but then the database won't load. :-(</ModInfo>
